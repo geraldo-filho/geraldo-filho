@@ -2,7 +2,7 @@
 # Olá, me chamo Geraldo Filho! 
 - Bem vindo ao meu perfil GitHub 👋
 
-- Atualmente trabalho como Agente de Cargas Líder na Azul Cargo Express e Curso Análise e Desenvvolvimento de Sistemas 
+- Atualmente trabalho como Agente de Cargas Líder na Azul Cargo Express e Curso Análise e Desenvolvimento de Sistemas 
 
 
 ## Tecnologias e Aprendizado
