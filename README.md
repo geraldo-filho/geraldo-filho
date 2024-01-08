@@ -2,7 +2,7 @@
 # Olá, me chamo Geraldo Filho! 
 - Bem vindo ao meu perfil GitHub 👋
 
-- Atualmente trabalho como Agente de Cargas Líder na Azul Cargo Express e sou Analista de Sistemas!
+- Tenho 24 anos e sou Analista de Sistemas!
 
 
 ## Tecnologias e Aprendizado
